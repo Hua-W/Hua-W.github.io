@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziang Li | 李子昂"
+title                    : "Hua Wang | 王画"
 title_separator          : "-"
-name                     : &name "Ziang Li"
+name                     : &name "Hua Wang"
 description              : &description "personal description"
-url                      : https://ziang-li.github.io
+url                      : https://hua-w.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ziang-li/ziang-li.github.io"
+repository               : "hua-w/hua-w.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "ZiangLi_"
+  twitter          : "HuaWang_"
   vine             :
   weibo            :
   xing             :
