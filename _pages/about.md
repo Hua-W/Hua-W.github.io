@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in Economics at [Princeton University](https://economics.princeton.edu/). 
+I am a fifth-year PhD student in Chemical Engineering at [Carnegie Mellon University](https://www.cheme.engineering.cmu.edu/). 
 
+[//]: # (This may be the most platform independent comment
 **Research Interests:**
 * Finance
 * Macroeconomics
 * Behavioral Economics
+)
 
-**Email:** ziang.li [at] princeton.edu
+**Email:** huawang [at] cmu.edu
 
