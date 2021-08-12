@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Download my [CV in PDF](https://ziang-li.github.io/files/Ziang_Li_CV.pdf)
+Coming soon
+
