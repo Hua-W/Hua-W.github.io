@@ -44,7 +44,7 @@ In summary, this work describing pharmaceutical Chemistry Manufacturing and Cont
 
 * **Multi-mode resource constrained project scheduling with alternative prerequisites: New models and computational studies**  
 **H. Wang**,  N.  H.  Lappas,  and  C.  E.  Gounaris  
-<span style="color:maroon"> *Industrial& Engineering Chemistry Research*</span>, 58(39):18253–18266, 2019  
+<span style="color:maroon"> *Industrial & Engineering Chemistry Research*</span>, 58(39):18253–18266, 2019  
 – <a href="#/" onclick="visib('IECR19')">Abstract</a> \| [Published Version](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.9b02455)  
 
 <div id="IECR19" style="display: none; text-align: justify; line-height: 1.2; border: 1px solid black; margin-left: 8%; margin-right: 0; padding: 10px; font-style: italic;" ><small>
