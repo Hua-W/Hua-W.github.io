@@ -10,7 +10,9 @@ redirect_from:
  
 ## Publications
 
-* R. T. Ng, D. Kurniawan, **H.Wang**, B. Mariska, W. Wu, and C. T. Maravelias.  Integrated framework for designing spatially explicit biofuel supply chains. <span style="color:maroon"> *Applied Energy*</span>, 216:116–131,2018  
+* **Integrated framework for designing spatially explicit biofuel supply chains**  
+R. T. Ng, D. Kurniawan, **H. Wang**, B. Mariska, W. Wu, and C. T. Maravelias.  
+<span style="color:maroon"> *Applied Energy*</span>, 216:116–131,2018  
 – <a href="#/" onclick="visib('ae2018')">Abstract</a> \| [Published Version](https://www.sciencedirect.com/science/article/pii/S0306261918302022)  
 
 <div id="ae2018" style="display: none; text-align: justify; line-height: 1.2; border: 1px solid black; margin-left: 8%; margin-right: 0; padding: 10px; font-style: italic;" ><small>
