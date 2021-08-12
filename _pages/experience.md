@@ -12,7 +12,7 @@ redirect_from:
 Graduate Intern, Summer 2021  
 
 * **Eli Lilly and Company**  
-Research Collaboration, 2018 - present
+Ph.D. Research Collaboration, 2018 - present
 
 * **University of Wisconsin Madison**, Advised by C. T. Maravelias  
 Undergraduate Intern, Spring 2017
