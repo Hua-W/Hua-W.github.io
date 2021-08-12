@@ -14,19 +14,19 @@ redirect_from:
 <span style="color:maroon"> *AIChE Annual Meeting*</span>, Nov. 19, 2020 
 
 * **A tree-based algorithm to assess project schedule resilience against activity-related uncertainties**  
-**H.Wang**\*, S. Viswanath, S. Guntz, J. Dieringer, S. Vaidyaraman, S.  Garcıa-Munnz, and C. E.Gounaris  
+**H. Wang**\*, S. Viswanath, S. Guntz, J. Dieringer, S. Vaidyaraman, S.  Garcıa-Munnz, and C. E.Gounaris  
 <span style="color:maroon"> *INFORMS Annual Meeting*</span>, Nov. 9, 2020
 
 * **Multi-mode resource constrained project scheduling for pharmaceutical R&D**  
-**H.Wang**\*,  S.  Viswanath,  S.  Guntz,  J.  Dieringer,  S.  Vaidyaraman,  S.  Garcıa-Munnz,  and C. E. Gounaris  
+**H. Wang**\*,  S.  Viswanath,  S.  Guntz,  J.  Dieringer,  S.  Vaidyaraman,  S.  Garcıa-Munnz,  and C. E. Gounaris  
 <span style="color:maroon"> *AIChE Annual Meeting*</span>, Nov. 14, 2019
 
 * **Towards  a  comprehensive  ontology  to  describe  a  pharmaceutical  product**  
-S.  Viswanath\*,  S.  Guntz,  J.  Dieringer,  S.  Vaidyaraman,  S.  Garcıa-Munnz, **H.Wang**,  and C.  E.  Gounaris  
+S.  Viswanath\*,  S.  Guntz,  J.  Dieringer,  S.  Vaidyaraman,  S.  Garcıa-Munnz, **H. Wang**,  and C.  E.  Gounaris  
 <span style="color:maroon"> *AIChE Annual Meeting*</span>, Nov. 12, 2019
 
 * **Multi-mode resource constrained project scheduling for pharmaceutical R&D**  
-**H.Wang**\*,  S.  Viswanath,  S.  Guntz,  J.  Dieringer,  S.  Vaidyaraman,  S.  Garcıa-Munnz,  and C. E. Gounaris  
+**H. Wang**\*,  S.  Viswanath,  S.  Guntz,  J.  Dieringer,  S.  Vaidyaraman,  S.  Garcıa-Munnz,  and C. E. Gounaris  
 <span style="color:maroon"> *INFORMS Annual Meeting*</span>, Oct. 22, 2019
 
 * **Multi-mode  resource  constrained  project scheduling  problem  with  optional  activities  and  uncertain  network  structure**  
